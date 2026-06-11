@@ -1,0 +1,31 @@
+.tarja {
+  background-color: #dec3f1;
+  width: 100%;
+  padding: 10px 0;
+}
+.layout {
+  width: 100%;
+  border-collapse: collapse;
+  
+.td {
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+.h2 {
+  margin: 0;
+  color: white;
+  font-size: 18px;
+}
+.col-esquerda {
+  text-align: left;
+}
+.col-direita {
+  text-align: right;
+}
+.col-meio {
+  text-align: center;
+}
+.video {
+  width: 100%;
+}
